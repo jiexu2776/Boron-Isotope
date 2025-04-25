@@ -1,6 +1,5 @@
-<img src="https://zenodo.org/badge/DOI/10.5281/zenodo.11150472.svg" alt="Logo" width="20%" align="left">
-
 # Boron isotope reduction app
+<img src="https://zenodo.org/badge/DOI/10.5281/zenodo.11150472.svg" alt="Logo" width="20%" align="left">
 
 <img src="https://user-images.githubusercontent.com/107989499/220860374-dcae816d-a4ad-4fb2-8aeb-84a911ee4170.png" alt="Logo" width="30%" align="above">
 
